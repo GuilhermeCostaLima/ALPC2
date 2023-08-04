@@ -4,4 +4,4 @@ ao segundo número. Utilize a função de potência da linguagem.'''
 base = int(input("Digite um numero base: "))
 expoente = int(input("Digite um expoente: "))
 
-print(f'O resultado é {base ** expoente}')
+print(f'O resultado é {base ** expoente}') 
