@@ -10,4 +10,4 @@ n3 = float(input("Terceira nota: "))
 # peso3 = n3 * 5
 
 mfinal = ((n1 * 2)+(n2 * 3)+(n3 * 5))/10
-print(f'Media final: {mfinal})
+print(f'Media final: {mfinal}')
