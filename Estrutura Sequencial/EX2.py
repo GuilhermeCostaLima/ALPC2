@@ -7,4 +7,4 @@ nota4 = float(input("Quarta nota: "))
 
 calcula = nota1 + nota2 + nota3 + nota4
 media = calcula / 4
-print(f'Media final é: {media}')
+print(f'Media final é: {media}') 
