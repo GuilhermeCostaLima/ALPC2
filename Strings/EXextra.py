@@ -7,4 +7,4 @@ while True:
     c = f.find("r",c+1)
     if c == -1:
         break
-    print(f'{c}')
+    print(f'O r está na posição {c}')
