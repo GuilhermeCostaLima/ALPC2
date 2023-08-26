@@ -19,7 +19,7 @@ while numero_tentativas <= 6:
     tentativa = input(f'Tentativa numero {numero_tentativas}: ')
     tentativa.lower()
     if tentativa.lower() == palavra_aleatoria:
-        print(f'Você adivinhou em {numero_tentativas} tentivas!! a palavra realmente era {palavra_aleatoria.capitalize()}')
+        print(f'Você adivinhou em {numero_tentativas} tentativas!! a palavra realmente era {palavra_aleatoria.capitalize()}')
         break
     else:
         numero_tentativas += 1
