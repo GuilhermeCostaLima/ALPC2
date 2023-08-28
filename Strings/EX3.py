@@ -2,7 +2,7 @@
 
 import random
 
-palavras = ["banana","cachorro","tinta","porta","paris"]
+palavras = ["banana","cachorro","tinta","porta","paris","Cachorro","montanha","violão","sorriso","amizade","lua","felicidade","chave","aventura","chocolate","oceano","arco-íris","vela","floresta"]
 palavra_aleatoria = random.choice(palavras)
 palavra_list = list(palavra_aleatoria)
 random.shuffle(palavra_list)
